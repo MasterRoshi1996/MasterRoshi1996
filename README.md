@@ -31,7 +31,7 @@ I’m Shaunak (@MasterRoshi1996), a passionate software tester and developer foc
 
 ## 📫 How to Reach Me
 - Email: patilshaunak@yahoo.com
-- LinkedIn: shaunakpatil([(https://www.linkedin.com/in/shaunakpatil/)]
+- LinkedIn: shaunakpatil(https://www.linkedin.com/in/shaunakpatil/)
 
 ## 😄 Pronouns
 - He/Him
