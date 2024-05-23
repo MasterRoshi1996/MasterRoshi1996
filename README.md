@@ -37,7 +37,7 @@ I’m Shaunak (@MasterRoshi1996), a passionate software tester and developer foc
 - He/Him
 
 ## ⚡ Fun Fact
-- I’m named after Master Roshi from Dragon Ball, and like him, I believe in continuous learning and pushing beyond limits!
+- I’m love Master Roshi from Dragon Ball, and like him, I believe in continuous learning and pushing beyond limits!
 - 「しっかり修行して、しっかり勉強して、しっかり食べて、しっかり寝る！」- Master Roshi. And don't forget the
   Kamehamehaaaaaaaa! 🌊✨👊
 
